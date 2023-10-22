@@ -1,0 +1,30 @@
+Step 1 : Create the folder or application name
+
+Step 2 : npm install
+
+Step 3 : app.css & index.xss files are deleted
+
+Step 4 : main.jsx => import=>index.css deleted
+
+Step 5 : main.jsx => render(<App/>) இருந்தால் மட்டும் போதும்.
+
+Step 6 : function App() {
+
+         return (
+         <>
+            <div>  
+               🔥Hello All🔥   💃Welcome To React World💃
+            </div>
+        </>
+        )
+    }
+    export default App
+
+Step 7 : index.html ல் logo ஐ மாற்றவும்.
+         
+         React logo ஐ கொடுக்கவும்.
+         Title name ஐ மாற்றவும்.
+
+Step 8 : npm run dev
+
+Step 9 : The output is done.
